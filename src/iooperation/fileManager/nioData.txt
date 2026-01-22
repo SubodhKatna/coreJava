@@ -1,0 +1,2 @@
+NIO is faster and cleaner.
+It uses Paths instead of Files.
