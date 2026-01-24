@@ -195,7 +195,7 @@ This project is Eclipse-ready. Follow these steps to set it up locally:
 - [x] OOPS
 - [x] Exceptions Handling
 - [x] IO Operations
-- [ ] Collections
+- [x] Collections
 - [ ] Multi-Threading
 - [ ] Generic
 - [ ] Java8 Features 
